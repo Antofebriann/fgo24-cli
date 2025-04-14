@@ -9,9 +9,6 @@ C:\Users\M S I\Latihan CLI Dasar>type nul> latihan2.txt
 C:\Users\M S I\Latihan CLI Dasar>type nul> latihan3.txt
 
 C:\Users\M S I\Latihan CLI Dasar>type nul> latihan4.txt
-Access is denied.
-
-C:\Users\M S I\Latihan CLI Dasar>type nul> latihan4.txt
 
 C:\Users\M S I\Latihan CLI Dasar>type nul> latihan5.txt
 C:\Users\M S I\Latihan CLI Dasar>dir
