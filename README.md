@@ -37,20 +37,20 @@ rmdir latihan4.txt
 mkdir latihan1
 cd latihan1
 for /l %a in (1,1,5) do echo %a
-echo %latihan1.txt
-%latihan1.txt
+latihan1>echo 1
+1
 
-echo %latihan1.txt
-%latihan1.txt
+latihan1>echo 2
+2
 
-echo %latihan1.txt
-%latihan1.txt
+latihan1>echo 3
+3
 
-echo %latihan1.txt
-%latihan1.txt
+latihan1>echo 4
+4
 
-echo %latihan1.txt
-%latihan1.txt
+latihan1>echo 5
+5
 ```
 
 # New Task
