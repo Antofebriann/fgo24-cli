@@ -1,0 +1,57 @@
+
+C:\Users\M S I>mkdir "latihan CLI Dasar"
+C:\Users\M S I>cd "latihan CLI Dasar"
+
+C:\Users\M S I\Latihan CLI Dasar>type nul> latihan1.txt
+
+C:\Users\M S I\Latihan CLI Dasar>type nul> latihan2.txt
+
+C:\Users\M S I\Latihan CLI Dasar>type nul> latihan3.txt
+
+C:\Users\M S I\Latihan CLI Dasar>type nul> latihan4.txt
+Access is denied.
+
+C:\Users\M S I\Latihan CLI Dasar>type nul> latihan4.txt
+
+C:\Users\M S I\Latihan CLI Dasar>type nul> latihan5.txt
+C:\Users\M S I\Latihan CLI Dasar>dir
+ Volume in drive C is Windows
+ Volume Serial Number is C675-C3AD
+
+ Directory of C:\Users\M S I\Latihan CLI Dasar
+
+14-Apr-25  11:28 AM    <DIR>          .
+14-Apr-25  11:13 AM    <DIR>          ..
+14-Apr-25  11:27 AM                 0 latihan1.txt
+14-Apr-25  11:27 AM                 0 latihan2.txt
+14-Apr-25  11:27 AM                 0 latihan3.txt
+14-Apr-25  11:28 AM                 0 latihan4.txt
+14-Apr-25  11:28 AM                 0 latihan5.txt
+               5 File(s)              0 bytes
+               2 Dir(s)  34,378,072,064 bytes free
+
+C:\Users\M S I\Latihan CLI Dasar>del "latihan4.txt
+
+C:\Users\M S I\Latihan CLI Dasar>mkdir latihan4.txt
+
+C:\Users\M S I\Latihan CLI Dasar>del "latihan5.txt"
+
+C:\Users\M S I\Latihan CLI Dasar>mkdir latihan5.txt
+
+C:\Users\M S I\Latihan CLI Dasar>dir
+ Volume in drive C is Windows
+ Volume Serial Number is C675-C3AD
+
+ Directory of C:\Users\M S I\Latihan CLI Dasar
+
+14-Apr-25  11:30 AM    <DIR>          .
+14-Apr-25  11:13 AM    <DIR>          ..
+14-Apr-25  11:27 AM                 0 latihan1.txt
+14-Apr-25  11:27 AM                 0 latihan2.txt
+14-Apr-25  11:27 AM                 0 latihan3.txt
+14-Apr-25  11:29 AM    <DIR>          latihan4.txt
+14-Apr-25  11:30 AM    <DIR>          latihan5.txt
+               3 File(s)              0 bytes
+               4 Dir(s)  34,377,551,872 bytes free
+
+C:\Users\M S I\Latihan CLI Dasar>rmdir latihan4.txt
