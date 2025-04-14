@@ -52,3 +52,11 @@ echo %latihan1.txt
 echo %latihan1.txt
 %latihan1.txt
 ```
+
+# New Task
+```cmd
+for %%a in ("Blackpink","Evanescence","Linkin Park") do (
+    mkdir %%a
+    move "%%a.mp3" %a
+)
+```
