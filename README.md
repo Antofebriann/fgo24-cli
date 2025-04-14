@@ -57,6 +57,6 @@ echo %latihan1.txt
 ```cmd
 for %%a in ("Blackpink","Evanescence","Linkin Park") do (
     mkdir %%a
-    move "%%a.mp3" %a
+    move "%%*a.mp3" .\%%a
 )
 ```
